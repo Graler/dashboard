@@ -1,0 +1,62 @@
+.width {
+  width: 33%;
+}
+
+.label-select {
+  font-weight: bold;
+  font-size: 0.9em;
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.float-right {
+  float: right;
+}
+
+.margin-bottom-10 {
+  margin-bottom: 15px;
+}
+
+.equal {
+  color: #000000;
+}
+
+.increase {
+  color: #77c277;
+}
+
+.miss {
+  color: #ff1d0b;
+}
+
+.btn-filter-chart {
+  margin-top: 28px;
+  display: flex;
+}
+
+.btn-height {
+  height: 55px;
+}
+
+.margin-top-30 {
+  margin-top: 30px;
+}
+
+.footer {
+  bottom: 0;
+  position: relative;
+}
+
+.content-footer {
+  background-color: #fff;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-align: justify;
+}
